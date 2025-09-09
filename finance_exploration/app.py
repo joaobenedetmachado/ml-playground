@@ -4,7 +4,7 @@ from sklearn.model_selection import train_test_split
 from sklearn.ensemble import RandomForestClassifier
 from sklearn.metrics import accuracy_score
 
-FinAlvo = 'AAPL'
+FinAlvo = input(': ')
 
 data = yf.download(FinAlvo, start="2022-01-01", end="2023-01-01")
 
