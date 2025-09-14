@@ -14,3 +14,19 @@ f1:
         basicamente o equilibrio entre o recall e precisao
             2 x (Precisao x Recall/Precisao + Recall) 
 
+quando usar cada um:
+
+recall: falso negativo é caro:
+            diagnosticar alguem errado com cancer por exemplo
+            nesse caso o falar que nao tem (e ter) sai mt caro
+
+precisao: falso positivo sai caro:
+            afirmar que x pessoa esta relacionada com fraude bancarias
+            (e nao estar) sai mt caro pro banco e pessoa
+
+f1 score: quando tem uma chance de 0 - 1 para avaliar algo
+            avaliar se um email é spam, tem uma chance, de 0.5 por exemplo
+            nesse caso tu escolhe o churn e diz, se de acordo com o threshold de0.5 é churn ou
+            nao,
+
+roc auc: o modelo escolhe sem que tu precise de um threshold ainda

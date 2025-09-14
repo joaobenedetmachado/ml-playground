@@ -7,21 +7,21 @@ This repository organizes my Machine Learning studies with a focus on practical 
 # 📌 ML + DL Study Roadmap
 
 ### 1. Data Understanding & Preparation ✅  
-- Data exploration using pandas, matplotlib, and seaborn  
-- Cleaning: handling missing values, duplicates, and outliers  
-- Normalization and standardization  
+- Data exploration using pandas, matplotlib, and seaborn  X
+- Cleaning: handling missing values, duplicates, and outliers X  
+- Normalization and standardization X
 - Encoding categorical variables (one-hot, label encoding)  
-- Train/validation/test split  
+- Train/validation/test split X
 
 ### 2. Core ML Models ✅  
-- **Logistic Regression** — simple classification  
-- **Random Forest** — robust, good for tabular data  
-- **XGBoost / LightGBM** — strong performance on structured data  
+- **Logistic Regression** — simple classification  X
+- **Random Forest** — robust, good for tabular data  X
+- **XGBoost / LightGBM** — strong performance on structured data X
 - 👉 Compare baselines vs ensembles, using cross-validation  
 
 ### 3. Model Evaluation ✅  
-- Metrics: accuracy, precision, recall, F1-score, ROC-AUC  
-- Choose metrics according to the problem type  
+- Metrics: accuracy, precision, recall, F1-score, ROC-AUC X
+- Choose metrics according to the problem type X 
 
 ### 4. Avoiding Overfitting  
 - Techniques: regularization, cross-validation, early stopping  
