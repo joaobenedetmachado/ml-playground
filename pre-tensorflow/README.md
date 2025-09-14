@@ -4,7 +4,7 @@
 - [x] Estudar **accuracy, precision, recall, F1, ROC-AUC** (classificação).  
 - [ ] Estudar **R², RMSE, MAE** (regressão).  
 - [ ] Reavaliar o modelo de preço de casas com **todas as métricas relevantes**.  
-- [ ] Escrever uma explicação curta para cada métrica em linguagem simples.
+- [x] Escrever uma explicação curta para cada métrica em linguagem simples.
 
 > **Projeto:** atualizar o notebook de preço de casas mostrando métricas e interpretações.
 

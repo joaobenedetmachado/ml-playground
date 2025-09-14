@@ -23,7 +23,7 @@ This repository organizes my Machine Learning studies with a focus on practical 
 - Metrics: accuracy, precision, recall, F1-score, ROC-AUC X
 - Choose metrics according to the problem type X 
 
-### 4. Avoiding Overfitting  
+### 4. Avoiding Overfitting ✅
 - Techniques: regularization, cross-validation, early stopping  
 - Focus: train well and generalize to unseen data  
 
