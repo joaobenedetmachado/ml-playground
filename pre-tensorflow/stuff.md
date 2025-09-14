@@ -30,3 +30,11 @@ f1 score: quando tem uma chance de 0 - 1 para avaliar algo
             nao,
 
 roc auc: o modelo escolhe sem que tu precise de um threshold ainda
+
+r²: quanto mais proximo de 1 melhor
+            o r² é basicamente quao bem o modelo esta explicando um target de acordo com
+            as features, oque fazer para melhor?
+                checar overfitting, se tiver - regulariza ou early stopping
+                melhorar as features,
+                aumentar base de dados
+                geralmente ocorre por isso ai

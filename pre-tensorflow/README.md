@@ -37,7 +37,7 @@
 - [ ] Estudar **funções de ativação** (ReLU, Sigmoid, Tanh, Softmax).  
 - [ ] Estudar o que é uma **loss function**.  
 - [ ] Entender o que é um **otimizador** (SGD, Adam).  
-- [ ] Revisar **overfitting vs. underfitting** em redes neurais.  
+- [x] Revisar **overfitting vs. underfitting** em redes neurais.  
 - [ ] Conseguir explicar em texto **como funciona um perceptron + backpropagation**.
 
 > **Meta:** escrever um texto de 5–10 linhas explicando redes neurais com suas palavras.
