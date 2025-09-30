@@ -29,22 +29,22 @@ This repository organizes my Machine Learning studies with a focus on practical 
 
 ### 5. Hyperparameter Tuning  
 - Tools: GridSearchCV, RandomizedSearchCV, Optuna  
-- Apply to RandomForest / XGBoost / LightGBM  
+- Apply to RandomForest / XGBoost / LightGBM ✅
 
 ---
 
 ### 6. Intro to Deep Learning (Concepts First)  
-- Neurons, layers, activations, loss functions, optimizers  
-- Backpropagation (high-level understanding)  
-- Overfitting/underfitting in neural nets  
+- Neurons, layers, activations, loss functions, optimizers ✅  
+- Backpropagation (high-level understanding) ✅  
+- Overfitting/underfitting in neural nets ✅
 
 ---
 
 ### 7. TensorFlow & PyTorch 🚀  
 - **TensorFlow (Keras API)**  
-  - Building dense feedforward networks  
-  - Using callbacks (early stopping, checkpointing)  
-  - Training on structured/tabular data  
+  - Building dense feedforward networks ✅
+  - Using callbacks (early stopping, checkpointing) ✅  
+  - Training on structured/tabular data ✅ 
 - **PyTorch**  
   - Manual training loops vs high-level API (Lightning/FastAI)  
   - Understanding tensors & autograd  
@@ -83,3 +83,4 @@ This repository organizes my Machine Learning studies with a focus on practical 
 
 ## Getting Started
 Clone the repository and follow the notebooks and scripts in the `/notebooks` folder for exercises and mini-projects.
+
