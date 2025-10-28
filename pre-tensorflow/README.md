@@ -4,7 +4,7 @@
 - [x] Estudar **accuracy, precision, recall, F1, ROC-AUC** (classificação).  
 - [ ] Estudar **R², RMSE, MAE** (regressão).  
 - [ ] Reavaliar o modelo de preço de casas com **todas as métricas relevantes**.  
-- [ ] Escrever uma explicação curta para cada métrica em linguagem simples.
+- [x] Escrever uma explicação curta para cada métrica em linguagem simples.
 
 > **Projeto:** atualizar o notebook de preço de casas mostrando métricas e interpretações.
 
@@ -37,7 +37,7 @@
 - [ ] Estudar **funções de ativação** (ReLU, Sigmoid, Tanh, Softmax).  
 - [ ] Estudar o que é uma **loss function**.  
 - [ ] Entender o que é um **otimizador** (SGD, Adam).  
-- [ ] Revisar **overfitting vs. underfitting** em redes neurais.  
+- [x] Revisar **overfitting vs. underfitting** em redes neurais.  
 - [ ] Conseguir explicar em texto **como funciona um perceptron + backpropagation**.
 
 > **Meta:** escrever um texto de 5–10 linhas explicando redes neurais com suas palavras.
